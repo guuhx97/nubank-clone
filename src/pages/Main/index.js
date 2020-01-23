@@ -4,9 +4,9 @@ import Icon from 'react-native-vector-icons/MaterialIcons';
 import { Animated } from 'react-native';
 import { PanGestureHandler, State } from 'react-native-gesture-handler';
 
-import Header from '~/components/Header';
-import Tabs from '~/components/Tabs';
-import Menu from '~/components/Menu';
+import Header from '../../components/Header';
+import Tabs from '../../components/Tabs';
+import Menu from '../../components/Menu';
 
 import { Container, Content, Card, CardHeader, CardContent, CardFooter, Title, Description, Annotation } from './styles';
 

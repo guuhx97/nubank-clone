@@ -2,7 +2,7 @@ import React from 'react';
 import Icon from 'react-native-vector-icons/MaterialIcons';
 
 import { Container, Code, QRCode, Nav,NavItem, NavText, SignOutButtom, SignOutButtomText } from './styles';
-import qrcode from '~/assets/qrcode.png';
+import qrcode from "../../assets/qrcode.png";
 
 export default function Menu({ translateY }){
   return (
