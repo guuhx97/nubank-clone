@@ -1,41 +1,49 @@
 
 <h1 align="center">
-    <img alt="DevRadar" title="Nubank Clone" src=".github/nubank.png" width="250px" />
+    <img alt="Instagram Clone" src=".github/logo.png"  width="250px" />
 </h1>
 
 <h4 align="center">
-  🚀 Youtube Video by RocketSeat
+  🚀 Vídeo Youtube by RocketSeat
 </h4>
+
 <p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/guuhx97/nubank-clone">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 <p align="center">
-  <a href="#rocket-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">License</a>
+  <img alt="Nubank Clone" src=".github/nubank-screens.png" width="100%">
 </p>
 
-<p align="center">
-  <img alt="Frontend" src=".github/nubank-screens.png" width="100%" >
-</p>
+## 👨🏼‍💻 Projeto
 
-## 🚀 Technologies
+O Nubank clone é um projeto feito para estudo e treinamento de `React Native`. Foi feito uma copia do pagina inicial do Nubank, onde são apresentados informações do usuário, além de conter um menu na parte inferior com os botões das outras funcionalidades.
 
-For the development of the project, the following techniques were used:
+## 🔨 Tecnologias
 
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript)
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
 
-## 🤔 Getting Started
+## 🔄 Executar
+ - Fazer clone do repositório.
 
-- Clone this repository;
-- Install project dependencies with `yarn install`;
-- Run the application with the command `yarn start`;
+### 📱 Mobile
+ - Executar `yarn install` para instalar dependências do projeto;
+ - Executar `yarn start` para executar o projeto
 
+## ♻️ Como contribuir
+- Faça um fork desse repositório;
+- Crie uma branch com a sua feature: `git checkout -b minha-feature`
+- Commit suas mudanças: `git commit -m ':emoji: feat: My new feature'`
+- Push a sua branch: `git push origin my-feature`
 
 ## 📝 Licença
+Este projeto está sobre a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
-This project is under the MIT license. See the [LICENSE](LICENSE) for more details.
+---
 
+<h4 align="center">
+  Feito com ❤️ by Gustavo Souza
+</h4>
